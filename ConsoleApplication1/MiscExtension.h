@@ -59,7 +59,7 @@ public:
         return isAdmin != FALSE;
     }
     ////////////////////////////////////////////////////////////////////////////////////
-    static bool isKeyPressed()
+    static bool isTabKeyPressed()
     {
         return GetAsyncKeyState(VK_INSERT) & 0x8000;
     }

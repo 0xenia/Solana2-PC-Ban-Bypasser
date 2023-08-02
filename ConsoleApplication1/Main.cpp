@@ -33,7 +33,7 @@ int main()
 
     while (Process::PID == 0) 
     {
-        if (MiscExtension::isKeyPressed()) 
+        if (MiscExtension::isTabKeyPressed()) 
         {
             system("cls");
             HWND windowHandle = GetForegroundWindow();
