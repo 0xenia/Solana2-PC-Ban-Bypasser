@@ -2,7 +2,7 @@
  I hope you will not send me a dx pic after that Capone XD
  
  
- Capone uses arp -a command to enumarate your WAN MAC address. What a great way to ban people XD, 👎😹👎
+ Capone uses arp -a command and selecting them if starts with "dyna" or "dina" to enumarate your WAN MAC address. What a great way to ban people XD 👎😹👎
  
 
  
